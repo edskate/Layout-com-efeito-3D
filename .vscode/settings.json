@@ -1,7 +1,7 @@
 {
     "colorWheel.settings.workspaceColor": "hsl(53,77%,19%)",
     "workbench.colorCustomizations": {
-        "titleBar.activeBackground": "#ecdd28"
+        "titleBar.activeBackground": "#dc0ff0"
     },
     "git.ignoreLimitWarning": true
 }
