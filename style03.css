@@ -1,0 +1,57 @@
+*{
+    background-color: darkslategrey;
+}
+h1{
+    color: rgb(221, 196, 245);
+}
+h2{
+    color: cyan
+    ;
+
+}
+h3{
+    color: darkgoldenrod;
+}
+h4{
+    color: rgb(240, 1, 1);
+}
+h5{
+    color: lawngreen;
+}
+h6{
+   color: darkslategray; 
+   text-shadow: 2px 3px 4px #00ffff;
+}
+.box1{
+    color: aqua;
+}
+.box2{
+    color: sandybrown;
+}
+.box3{
+    color: chartreuse;
+}
+.box4{
+    color: rgb(0, 0, 0);
+    text-shadow: 2px 3px 4px #ffffff;
+    font-size:20px ;
+   
+}
+
+.box5{
+    color: crimson;
+    text-shadow: 3px 4px 5px ;
+    
+}
+
+button{
+    color: #00ffff;
+    text-shadow: 3px 4px 5px ;
+    font-size: 20px;
+    box-shadow: 10px 10px 10px ;
+}
+h1{
+    color: rgb(80, 156, 156);
+    box-shadow:  #00ffff;
+    text-shadow: #000000;
+}
